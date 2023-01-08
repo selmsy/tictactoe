@@ -1,0 +1,35 @@
+* [33mcommit ad9bf1bb86026e2a55fcbacced0615f12ee5d665[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Selma Om <selma.om1@gmail.com>
+[31m|[m Date:   Sun Jan 8 15:52:19 2023 +0100
+[31m|[m 
+[31m|[m     Added calculateWinner function
+[31m|[m 
+* [33mcommit e5a0bb8fe61a267bb1e1bf0d3e626e32ec7f622d[m
+[31m|[m Author: Selma Om <selma.om1@gmail.com>
+[31m|[m Date:   Sun Jan 8 15:49:31 2023 +0100
+[31m|[m 
+[31m|[m     Added calculateWinner function
+[31m|[m 
+* [33mcommit 57ee425ee9f318f1fed739a2de37cd74711b7709[m
+[31m|[m Author: Selma Om <selma.om1@gmail.com>
+[31m|[m Date:   Sun Jan 8 13:02:36 2023 +0100
+[31m|[m 
+[31m|[m     Added handler logic for printing X and 0
+[31m|[m 
+* [33mcommit d47565281b769e04d21183d677415488b4605cda[m
+[31m|[m Author: Selma Om <selma.om1@gmail.com>
+[31m|[m Date:   Sat Jan 7 19:18:25 2023 +0100
+[31m|[m 
+[31m|[m     added .scss
+[31m|[m 
+* [33mcommit cef4be1a71ea1f9d654661f05fbfd4ffa06aba57[m
+[31m|[m Author: Selma Om <selma.om1@gmail.com>
+[31m|[m Date:   Sat Jan 7 18:38:59 2023 +0100
+[31m|[m 
+[31m|[m     created Board and Square component
+[31m|[m 
+* [33mcommit 5b7225aec8fddbdc333278a6e70bf0c2d061a42d[m
+  Author: Selma Om <selma.om1@gmail.com>
+  Date:   Sat Jan 7 17:52:11 2023 +0100
+  
+      init commit
