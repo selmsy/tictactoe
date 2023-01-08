@@ -12,7 +12,7 @@ const App = () => {
   const message = winner ? `Winner is ${winner}` : `Next player is ${isXNext ? "X" : "0"}`;
   const handleSquareClick = position => {
 
-    if(board[position])  {return;} 
+    if(board[position] || winner)  {return;} 
 setBoard((prev)=>{
 return prev.map((square,pos)=>{
 if(pos==position){
